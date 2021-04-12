@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+border-style: double;
+  border-color: black;
+  width: 400px;
+  height: 500px;
+  background-color: rgb(35, 107, 155);
+}
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
